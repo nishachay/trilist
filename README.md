@@ -93,4 +93,4 @@ Built with React 19, TypeScript, Vite 8, Motion and Lucide icons, with plain CSS
 
 ---
 
-Built by Nishachay · [@ni5hachay](https://x.com/ni5hachay) · [GitHub](https://github.com/nishachay)
+Built by Nishachay · [@nishachayy](https://x.com/nishachayy) · [GitHub](https://github.com/nishachay)

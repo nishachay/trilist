@@ -278,8 +278,8 @@ export const HelpDialog: React.FC<HelpDialogProps> = ({
                   . Built by Nishachay.
                 </p>
                 <div className="row-buttons">
-                  <a className="btn btn-ghost" href="https://x.com/ni5hachay" target="_blank" rel="noopener noreferrer">
-                    <XLogo /> @ni5hachay
+                  <a className="btn btn-ghost" href="https://x.com/nishachayy" target="_blank" rel="noopener noreferrer">
+                    <XLogo /> @nishachayy
                   </a>
                   <a className="btn btn-ghost" href="https://github.com/nishachay" target="_blank" rel="noopener noreferrer">
                     <GitHubLogo /> GitHub
